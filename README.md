@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhav6780/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Vaibhav6780/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vaibhav6780/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -20,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vaibhav6780/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vaibhav6780/Leetcode/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vaibhav6780/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
