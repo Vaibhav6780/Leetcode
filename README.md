@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Vaibhav6780/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vaibhav6780/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Vaibhav6780/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Vaibhav6780/Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Vaibhav6780/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vaibhav6780/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vaibhav6780/Leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Vaibhav6780/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
