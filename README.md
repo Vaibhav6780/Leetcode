@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhav6780/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Vaibhav6780/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaibhav6780/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Vaibhav6780/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
