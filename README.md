@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Vaibhav6780/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Vaibhav6780/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vaibhav6780/Leetcode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Vaibhav6780/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vaibhav6780/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vaibhav6780/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhav6780/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Vaibhav6780/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vaibhav6780/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vaibhav6780/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Vaibhav6780/Leetcode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaibhav6780/Leetcode/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaibhav6780/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaibhav6780/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
